@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b55c49-cb2c-44c6-a9c3-3f72134a9f7f" name="Changes" comment="Implementação de uma Pilha de numeros inteiros">
-      <change afterPath="$PROJECT_DIR$/src/aulas/filas/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulas/filas/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aulas/filas/No.java" afterDir="false" />
+    <list default="true" id="60b55c49-cb2c-44c6-a9c3-3f72134a9f7f" name="Changes" comment="Implementacao de uma Fila">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/filas/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/filas/Fila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/filas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/filas/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aulas/filas/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aulas/filas/No.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678151962426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementacao de uma Fila">
+      <created>1678749298360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678749298360</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro Commit" />
     <MESSAGE value="Exemplo de encadeamento de nos" />
     <MESSAGE value="Implementação de uma Pilha de numeros inteiros" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementação de uma Pilha de numeros inteiros" />
+    <MESSAGE value="Implementacao de uma Fila" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementacao de uma Fila" />
   </component>
 </project>
